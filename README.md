@@ -28,4 +28,9 @@ For this example, we will search for UFO sightings based on a specific date. The
 
 ![datefilter](/Resources/datefilter.PNG)
 
+The user is also capable of searching on multiple fields. The example below is filtering on date (1/13/2010) and city (white oak). The table will then update to only show UFO sightings for 1/13/2010 in White Oak. 
+
+![datecityfiler](/Resources/datecityfilter.PNG)
+
+
 ## Summary
