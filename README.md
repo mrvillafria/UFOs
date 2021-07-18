@@ -11,7 +11,7 @@ The purpose of this week's project was to help Dana, a data journalist, post her
 #### Instructions
 On our dynamic webpage, the users can search and filter the UFO sightings table based on date, city, state, country, and shape.
 
-There is a "Filter Search" feature on the lefthand side of the page with the different search criterias.
+There is a "Filter Search" feature on the left-hand side of the page with the different search criteria. In each input box, it displays an example, or a placeholder, for each filter option. This will help show the user the input format for what they want to search on. 
 ![filtersearch](/Resources/filtersearch.PNG)
 
 ## Summary
