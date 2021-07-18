@@ -18,9 +18,14 @@ This will help show the user the input format for what they want to search on.
 
 ![filtersearch](/Resources/filtersearch.PNG)
 
-If nothing is entered in the Filter Search fields, by default the table will display all the information on the webpage.
+If nothing is entered in the Filter Search fields, by default the table will display all the UFO sighting information on the webpage.
 
 ![nofilter](/Resources/nofilter.PNG)
 
+To start searching for specific UFO sightings, the user can enter date, city, state, country, and shape. Not all fields need to be populated in order for the table to update. The user can search on one field or multiple fields simply by entering what they want to search on and pressing "Enter".
+
+For this example, we will search for UFO sightings based on a specific date. The date we are using for this example is 1/13/2010. As you can see, the table on the righthand side is now only displaying UFO sightings for 1/13/2010. 
+
+![datefilter](/Resources/datefilter.PNG)
 
 ## Summary
