@@ -8,7 +8,7 @@ The purpose of this week's project was to help Dana, a data journalist, post her
 
 ## Results
 
-#### Instructions
+### Instructions
 On our dynamic webpage, the users can search and filter the UFO sightings table based on date, city, state, country, and shape.
 
 There is a "Filter Search" feature on the left-hand side of the page with the different search criteria.
@@ -24,13 +24,20 @@ If nothing is entered in the Filter Search fields, by default the table will dis
 
 To start searching for specific UFO sightings, the user can enter date, city, state, country, and shape. Not all fields need to be populated in order for the table to update. The user can search on one field or multiple fields simply by entering what they want to search on and pressing "Enter".
 
+##### Single Field Search
 For this example, we will search for UFO sightings based on a specific date. The date we are using for this example is 1/13/2010. As you can see, the table on the righthand side is now only displaying UFO sightings for 1/13/2010. 
 
 ![datefilter](/Resources/datefilter.PNG)
 
+##### Multiple Field Search
 The user is also capable of searching on multiple fields. The example below is filtering on date (1/13/2010) and city (white oak). The table will then update to only show UFO sightings for 1/13/2010 in White Oak. 
 
-![datecityfiler](/Resources/datecityfilter.PNG)
+![datecityfilter](/Resources/datecityfilter.PNG)
+
+##### Additional Search Examples
+Users can search UFO sightings based on state. Below is an example where we're searching on "nc" or North Carolina for state. The table will then update to only show results for UFO sightings in North Carolina. 
+
+![statefilter](/Resources/statefilter.PNG)
 
 
 ## Summary
