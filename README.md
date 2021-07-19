@@ -45,4 +45,11 @@ Here is another example where we are searching on multiple fields. We entered "c
 
 ## Summary
 
-While our UFO sightings webpage is informational, visually appealing, and interactive, there are some drawbacks to what we have developed so far. One major drawback is that our search criteria fields are case sensitive. The user has to type in the fields exactly how they are displayed in the table or else the results will not populate. For example, states are displayed with all lowercase letters. If the user types in "CA" for California instead of "ca", no results will display since "CA" does not match "ca".
+While our UFO sightings webpage is informational, visually appealing, and interactive, there are some drawbacks to what we have developed so far. One major drawback is that our search criteria fields are case sensitive. The user has to type in the fields exactly how they are displayed in the table or else the results will not populate. For example, states are displayed with all lowercase letters. If the user types in "NC" for North Carolina instead of "nc", no results will display since "NC" does not match "nc".
+
+![ncstate](/Resources/ncstate.PNG)
+
+### Recommendations
+Here are two recommendations for further development
+- Add sorting options for columns of the table. This would be useful if the user wants to look at a specific state but wants to sort the cities in alphabetical order. 
+- Have the option to search multiple user inputs in each search filter. For example, if the user wanted to look up a date range or multiple states instead of just inputting a single date and a single state.
