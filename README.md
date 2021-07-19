@@ -39,7 +39,7 @@ Users can search UFO sightings based on state. Below is an example where we're s
 
 ![statefilter](/Resources/statefilter.PNG)
 
-Here is another example where we are searching on multiple fields. We entered "ca" or California for state, "us" for country, and "triangle" for shape. The table updates to only display the results based on we we input.
+Here is another example where we are searching on multiple fields. We entered "ca" or California for state, "us" for country, and "triangle" for shape. The table updates to only display the results based on what we input.
 
 ![multifilter](/Resources/multifilter.PNG)
 
