@@ -13,8 +13,8 @@ On our dynamic webpage, the users can search and filter the UFO sightings table 
 
 There is a "Filter Search" feature on the left-hand side of the page with the different search criteria.
 
-Please notice in each input box, it displays an example, or a placeholder, for each filter option.
-This will help show the user the input format for what they want to search on.
+Please notice in each input box, it displays an example, or a placeholder, for each filter option. For example, our placeholder for City is benton.
+This will help show the user the input format for what they want to search on. 
 
 ![filtersearch](/Resources/filtersearch.PNG)
 
@@ -44,3 +44,5 @@ Here is another example where we are searching on multiple fields. We entered "c
 ![multifilter](/Resources/multifilter.PNG)
 
 ## Summary
+
+While our UFO sightings webpage is informational, visually appealing, and interactive, there are some drawbacks to what we have developed so far. One major drawback is that our search criteria fields are case sensitive. The user has to type in the fields exactly how they are displayed in the table or else the results will not populate. For example, states are displayed with all lowercase letters. If the user types in "CA" for California instead of "ca", no results will display since "CA" does not match "ca".
